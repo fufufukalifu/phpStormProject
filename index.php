@@ -8,3 +8,4 @@
 
 echo "Hello world";
 echo "nah jis ini bisa";
+echo "nahbisa pik";
